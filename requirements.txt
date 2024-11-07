@@ -1,0 +1,5 @@
+Pyrogram==2.0.106
+python-dotenv==1.0.1
+openpyxl==3.1.5
+urlextract==1.9.0
+ollama==0.3.3
